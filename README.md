@@ -6,8 +6,7 @@ If you click on the same image twice, the current score will reset to 0.
 
 # Play the Game here
 
-https://tiffolin.github.io/Test-your-memory-Click-Game-/
-
+https://test-your-memory-glick-game.herokuapp.com/
 
 ## Technologies and Libraries
 
