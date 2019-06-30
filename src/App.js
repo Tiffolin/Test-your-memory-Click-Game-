@@ -4,7 +4,7 @@ import Score from "./components/Score";
 import Wrapper from "./components/Wrapper";
 import Card from "./components/Card";
 import imgs from "./imgs.json";
-// import Footer from "./components/Footer";
+import Footer from "./components/Footer";
 import './style.css';
 
 class App extends Component {
@@ -58,7 +58,7 @@ class App extends Component {
           />
         ))}
         </Wrapper>
-        {/* <Footer /> */}
+        <Footer />
       </div>
 
 
