@@ -2,7 +2,7 @@
 Test your memory by clicking on an image to generate points to beat the Top Score.
 If you click on the same image twice, the current score will reset to 0.
 
-![](appScreenshots/1.PNG)     
+![](appScreenshots/.PNG)     
 
 # Play the Game here
 
