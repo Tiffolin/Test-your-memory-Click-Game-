@@ -1,8 +1,8 @@
-# Test-your-memory-Click-Game-
+# BT21 Game
 Test your memory by clicking on an image to generate points to beat the Top Score.
 If you click on the same image twice, the current score will reset to 0.
 
-![](appScreenshots/.PNG)     
+![](appScreenshots/1.PNG)     
 
 # Play the Game here
 

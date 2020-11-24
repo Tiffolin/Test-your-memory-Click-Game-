@@ -47,7 +47,7 @@ class App extends Component {
           topScore={this.state.topscore}
         >
         </Score>
-
+        <div className ="cardWrap">
         <Wrapper>
         {this.state.imgs.map(img => (
           <Card
@@ -58,6 +58,7 @@ class App extends Component {
           />
         ))}
         </Wrapper>
+        </div>
         <Footer />
       </div>
 
