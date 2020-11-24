@@ -11,5 +11,5 @@ html, body, #root {
 .cardWrap{
   max-width: 1000px;
   text-align:center;
-  z-index:2;
+
 }
